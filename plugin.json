@@ -1,0 +1,13 @@
+{
+  "pluginName": "Coffee",
+  "author": "Trent0",
+  "homepage": "https://github.com/trentlee0",
+  "description": "阻止 Mac 进入睡眠",
+  "version": "1.0.0",
+  "logo": "logo.png",
+  "preload": "preload.js",
+  "platform": [
+    "darwin"
+  ],
+  "features": []
+}
